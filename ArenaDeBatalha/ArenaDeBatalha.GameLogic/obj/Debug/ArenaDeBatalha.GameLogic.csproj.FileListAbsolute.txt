@@ -1,0 +1,8 @@
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.dll
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.pdb
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.Media.resources
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.dll
+C:\Users\Usuario\Downloads\Estudos Programação\Sharp Coders\Estudando C#\Curso Básico de C#\Criando um Jogo\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.pdb
